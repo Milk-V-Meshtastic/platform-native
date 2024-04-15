@@ -15,7 +15,7 @@
   "packages": {
     "framework-portduino": {
       "type": "framework",
-      "version": "https://https://github.com/Milk-V-Meshtastic/framework-portduino.git",
+      "version": "https://github.com/Milk-V-Meshtastic/framework-portduino.git",
       "optional": true
     }
   },
